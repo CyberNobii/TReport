@@ -51,6 +51,6 @@ Examples include:
 
 ## 🌐 Contact 
 
-- 💬 **To know more about the tool join our official channel 👇:** 
+- 💬 **To know more about the tool join our official channel/gc 👉 :** 
 [Official channel](https://t.me/hack4hub)
 -  [Official group discussion](https://t.me/hackHuub)
