@@ -1,9 +1,8 @@
 # TReport
 
-> **Educational & Research Project**
+This is a python script to mass report on Telegram channel, group, User, bot .
 
-A Python-based Telegram reporting and moderation research toolkit built on **Telethon**.  
-This project is intended for **security research, platform moderation testing, and educational purposes only**.
+> **Educational & Research Purpose only**
 
 ---
 
